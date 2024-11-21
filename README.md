@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1> Me chamo Matheus Vinicius</h1>
+
+Sou um programador web full stack em formação, cheio de vontade de entrar no mercado e criar coisas incríveis! Já tenho uma boa base em HTML, CSS e comecando a aprender JavaScript.
+
+Adoro aprender na prática, então estou sempre criando projetos, testando ideias e melhorando minhas habilidades. Também curto trabalhar com Git e aprender sobre metodologias ágeis para colaborar melhor com a galera. Meu foco é desenvolver soluções legais, que funcionem bem e façam a diferença para quem usa.
+
+Estou super animado para fazer parte de uma equipe, crescer profissionalmente e encarar novos desafios! 🚀
 
 <!--
 **MaximillionDev1/MaximillionDev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
