@@ -1,22 +1,24 @@
-<h1> Me chamo Matheus Vinicius</h1>
+<h1 align="center">Matheus Vinicius | Dev Júnior JavaScript Full-Stack</h1>
 
-Sou um programador web full stack em formação, cheio de vontade de entrar no mercado e criar coisas incríveis! Já tenho uma boa base em HTML, CSS e comecando a aprender JavaScript.
+💻 **Desenvolvedor Web** focado em criar soluções práticas com **React** (Front-End) e **Node.js** (Back-End).  
+Minha missão: entregar código limpo, acessível e alinhado às necessidades do negócio.
 
-Adoro aprender na prática, então estou sempre criando projetos, testando ideias e melhorando minhas habilidades. Também curto trabalhar com Git e aprender sobre metodologias ágeis para colaborar melhor com a galera. Meu foco é desenvolver soluções legais, que funcionem bem e façam a diferença para quem usa.
+🛠 **Stack Principal:**  
+- **Front:** React, JavaScript (ES6+), HTML5/CSS3,
+- **Back:** Node.js, Express, APIs REST  
+- **Ferramentas:** Git/GitHub, Figma, Vite  
 
-Estou super animado para fazer parte de uma equipe, crescer profissionalmente e encarar novos desafios! 🚀
+🚀 **Destaques:**  
+- ✅ 5+ projetos públicos no GitHub (incluindo (https://github.com/MaximillionDev1/CodeBurguer))  
+- ✅ Ex-profissional em atacado/varejo com habilidades em resolução de problemas  
 
-<!--
-**MaximillionDev1/MaximillionDev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Busco time que:**  
+- Acredite em aprendizado contínuo e programacao por pares
+- Tenha foco em produtos que impactam usuários reais  
 
-Here are some ideas to get you started:
+📫 **Vamos conversar?**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheus-vinicius-dev/)  
+[![Email](https://img.shields.io/badge/Email-Me_Chama-D14836?style=flat&logo=gmail)](matheus_vinix@hotmail.com.br)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **Dica para recrutadores:** Meus repositórios ativos estão fixados abaixo!  
+
