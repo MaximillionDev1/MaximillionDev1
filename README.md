@@ -18,7 +18,7 @@ Minha missão: entregar código limpo, acessível e alinhado às necessidades do
 
 📫 **Vamos conversar?**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheus-vinicius-dev/)  
-[![Email](https://img.shields.io/badge/Email-Me_Chama-D14836?style=flat&logo=gmail)](matheus_vinix@hotmail.com.br)  
+[![Email](https://img.shields.io/badge/Email-Me_Chama-D14836?style=flat&logo=gmail)](mailto:matheus_vinix@hotmail.com.br)   
 
 🔍 **Dica para recrutadores:** Meus repositórios ativos estão fixados abaixo!  
 
