@@ -1,23 +1,73 @@
-<h1 align="center">Matheus Vinicius | Desenvolvedor JavaScript Full-Stack</h1>
+<h1 align="center">👋 Olá! Sou o Matheus Vinicius</h1>
+<p align="center">De líder no varejo a dev full stack — meu código carrega prática, entrega e propósito.</p>
 
-💡 **Desenvolvedor Web Full-Stack (JavaScript)** com foco em criar aplicações modernas, funcionais e pensadas para o usuário. Trabalho com **React** no Front-End e **Node.js** no Back-End, sempre priorizando código limpo, acessibilidade e alinhamento com as necessidades do negócio.
+---
 
-🛠 **Stack de Trabalho:**  
-- **Front-End:** React, JavaScript (ES6+), HTML5, CSS3  
-- **Back-End:** Node.js, Express, APIs RESTful  
-- **Ferramentas & Suporte:** Git & GitHub, Figma, Vite, Insomnia  
+### 🧠 Sobre mim
 
-🚀 **Destaques:**  
-- 🧠 Transição de carreira com +9 anos de experiência em liderança, solução de problemas e atendimento ao cliente no setor varejista  
-- 📌 +5 projetos práticos publicados no GitHub, incluindo: [CodeBurguer](https://github.com/MaximillionDev1/CodeBurguer)  
-- 🤝 Forte espírito colaborativo, foco em aprendizado contínuo e adaptação a novos desafios  
+Sou um desenvolvedor Full Stack em constante evolução, com +9 anos de experiência no varejo liderando equipes, otimizando processos e resolvendo problemas no dia a dia.  
+Hoje, trago esse repertório humano para a tecnologia: construo aplicações reais com foco em **usabilidade**, **segurança** e **funcionalidade**.
 
-🎯 **Procuro por um time que:**  
-- Valorize a troca entre pares e o crescimento técnico constante  
-- Desenvolva produtos reais, com impacto direto na vida de usuários  
+Meu foco é resolver — com código limpo, atenção aos detalhes e respeito ao usuário final.
 
-📫 **Bora conversar?**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheus-vinicius-dev/)  
-[![Email](https://img.shields.io/badge/Email-Me_Chama-D14836?style=flat&logo=gmail)](mailto:matheus_vinix@hotmail.com.br)
+---
 
-🔍 **Dica para recrutadores:** Meus repositórios ativos e projetos estão fixados aqui embaixo!
+### 🚀 Tecnologias que trabalho
+
+**Front-end:**  
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
+![Styled Components](https://img.shields.io/badge/-Styled--Components-db7093?style=flat&logo=styled-components)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+
+**Back-end:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+
+**Outros:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+
+---
+
+### 💻 Projetos que desenvolvi
+
+📌 **DevBurger**  
+App full stack simulando uma hamburgueria digital: login seguro, painel admin e pedidos em tempo real.  
+Stack: React.js, Node.js, MongoDB, JWT, Styled-Components.  
+🔗 [Acessar Repositório]([https://github.com/MaximillionDev1](https://github.com/MaximillionDev1/CodeBurguer))
+
+📌 **MvrMovies**  
+Catálogo de filmes e séries com consumo da API TheMovieDB e layout com background animado.  
+Stack: React.js, Styled-Components, API externa.  
+🔗 [Acessar Repositório]([https://github.com/MaximillionDev1](https://github.com/MaximillionDev1/MvrMovies))
+
+📌 **MaxiBills** *(em construção)*  
+Aplicação full stack para organização financeira pessoal e/ou profissional, com design clean, segurança e foco em produtividade.
+
+---
+
+### 🌎 Interesses
+
+- Projetos internacionais  
+- Ambientes remotos ou híbridos  
+- IA aplicada no dia a dia de devs  
+- Acessibilidade e experiência do usuário  
+- Troca real com pessoas que constroem juntos
+
+---
+
+### 🤝 Vamos conectar?
+
+📫 **E-mail:** matheusdevsilv4@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/matheus-vinicius-dev](https://www.linkedin.com/in/matheus-vinicius-dev)  
+🐙 **GitHub:** [github.com/MaximillionDev1](https://github.com/MaximillionDev1)
+
+---
+
+<p align="center"><b>Se você busca alguém que une código com vivência real e vontade de crescer junto, bora conversar!</b></p>
