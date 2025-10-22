@@ -1,9 +1,6 @@
 <h1 align="center">👋 E ai!! Sou o Matheus Vinicius</h1>
 <h3 align="center">De líder no varejo a Desenvolvedor Full Stack — construindo soluções reais com propósito e código limpo.</h3>
 
-<p align="center">
-  <img src="https://github.com/MaximillionDev1/MaxiBills-FrontEnd/blob/main/src/assets/demo-maxibills.gif?raw=true" width="80%" alt="MaxiBills Demo"/>
-</p>
 
 ---
 
