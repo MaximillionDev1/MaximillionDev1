@@ -1,64 +1,76 @@
-<h1 align="center">👋 Olá! Sou o Matheus Vinicius</h1>
-<p align="center">De líder no varejo a dev full stack — meu código carrega prática, entrega e propósito.</p>
+<h1 align="center">👋 E ai!! Sou o Matheus Vinicius</h1>
+<h3 align="center">De líder no varejo a Desenvolvedor Full Stack — construindo soluções reais com propósito e código limpo.</h3>
+
+<p align="center">
+  <img src="https://github.com/MaximillionDev1/MaxiBills-FrontEnd/blob/main/src/assets/demo-maxibills.gif?raw=true" width="80%" alt="MaxiBills Demo"/>
+</p>
 
 ---
 
 ### 🧠 Sobre mim
 
-Sou um desenvolvedor Full Stack em constante evolução, com +9 anos de experiência no varejo liderando equipes, otimizando processos e resolvendo problemas no dia a dia.  
-Hoje, trago esse repertório humano para a tecnologia: construo aplicações reais com foco em **usabilidade**, **segurança** e **funcionalidade**.
+Sou **Desenvolvedor Full Stack** em constante evolução.  
+Antes do código, vieram **+9 anos de experiência no varejo**, liderando equipes, otimizando processos e resolvendo problemas todos os dias.  
+Hoje, trago essa vivência para a tecnologia — transformando ideias em **produtos funcionais, seguros e com foco total no usuário final**.
 
-Meu foco é resolver — com código limpo, atenção aos detalhes e respeito ao usuário final.
+💡 Meu diferencial?  
+Combino **mentalidade de liderança, empatia e visão de negócio** com práticas modernas de desenvolvimento web.
 
 ---
 
-### 🚀 Tecnologias que trabalho
+### 🚀 Tecnologias & Ferramentas
 
-**Front-end:**  
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
-![Styled Components](https://img.shields.io/badge/-Styled--Components-db7093?style=flat&logo=styled-components)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)  
+**Front-end**  
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=fff)
+![Styled Components](https://img.shields.io/badge/-Styled--Components-db7093?style=flat&logo=styled-components)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
-**Back-end:**  
+**Back-end**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![Zod](https://img.shields.io/badge/-Zod-3E69E4?style=flat&logo=zod&logoColor=fff)
 
-**Outros:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)  
+**Outros**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render)
 
 ---
 
-### 💻 Projetos que desenvolvi
+### 💻 Projetos em Destaque
 
-📌 **DevBurger**  
-App full stack simulando uma hamburgueria digital: login seguro, painel admin e pedidos em tempo real.  
-Stack: React.js, Node.js, MongoDB, JWT, Styled-Components.  
-🔗 [Acessar Repositório]([https://github.com/MaximillionDev1](https://github.com/MaximillionDev1/CodeBurguer))
+#### 💰 [MaxiBills – Controle Financeiro Full Stack](https://github.com/MaximillionDev1/MaxiBills-FrontEnd)
+> Aplicação completa para gerenciamento financeiro pessoal e empresarial, com adição de receitas, despesas e gráficos interativos.  
+> 🔗 [Front-End](https://github.com/MaximillionDev1/MaxiBills-FrontEnd) | [Back-End](https://github.com/MaximillionDev1/MaxiBills-BackEnd)  
+> 🧠 Stack: React, TypeScript, Vite, Tailwind, Node.js, Fastify, Prisma, MongoDB, Firebase  
 
-📌 **MvrMovies**  
-Catálogo de filmes e séries com consumo da API TheMovieDB e layout com background animado.  
-Stack: React.js, Styled-Components, API externa.  
-🔗 [Acessar Repositório]([https://github.com/MaximillionDev1](https://github.com/MaximillionDev1/MvrMovies))
+#### 🍔 [DevBurger](https://github.com/MaximillionDev1/CodeBurguer)
+> Sistema completo de pedidos e painel administrativo para uma hamburgueria digital.  
+> Stack: React.js, Node.js, MongoDB, JWT, Styled Components  
 
-📌 **MaxiBills** *(em construção)*  
-Aplicação full stack para organização financeira pessoal e/ou profissional, com design clean, segurança e foco em produtividade.
+#### 🎬 [MvrMovies](https://github.com/MaximillionDev1/MvrMovies)
+> Catálogo de filmes e séries com consumo da API TheMovieDB e interface moderna com animações e background dinâmico.  
+> Stack: React.js, Styled Components, API externa  
 
 ---
 
 ### 🌎 Interesses
 
-- Projetos internacionais  
-- Ambientes remotos ou híbridos  
-- IA aplicada no dia a dia de devs  
-- Acessibilidade e experiência do usuário  
-- Troca real com pessoas que constroem juntos
+🌍 Projetos internacionais e colaborativos  
+💻 Ambientes remotos e híbridos  
+🤖 Aplicações com Inteligência Artificial  
+🎨 Design de interfaces e experiência do usuário  
+🧩 Projetos que unem propósito e tecnologia  
 
 ---
 
@@ -70,4 +82,7 @@ Aplicação full stack para organização financeira pessoal e/ou profissional, 
 
 ---
 
-<p align="center"><b>Se você busca alguém que une código com vivência real e vontade de crescer junto, bora conversar!</b></p>
+<p align="center">
+  <b>“Código é ferramenta. Transformar é propósito.”</b><br/>
+  <i>Se você busca alguém que une vivência, técnica e vontade de crescer junto — bora conversar!</i>
+</p>
