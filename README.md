@@ -1,24 +1,26 @@
-<h1 align="center">👋 E ai!! Sou o Matheus Vinicius</h1>
-<h3 align="center">De líder no varejo a Desenvolvedor Full Stack — construindo soluções reais com propósito e código limpo.</h3>
-
+<h1 align="center">👋 Olá! Eu sou o Matheus Vinicius</h1>
+<h3 align="center">
+De líder no varejo a Desenvolvedor Full Stack — construindo produtos reais com propósito, performance e código limpo.
+</h3>
 
 ---
 
 ### 🧠 Sobre mim
 
-Sou **Desenvolvedor Full Stack** em constante evolução.  
-Antes do código, vieram **+9 anos de experiência no varejo**, liderando equipes, otimizando processos e resolvendo problemas todos os dias.  
-Hoje, trago essa vivência para a tecnologia — transformando ideias em **produtos funcionais, seguros e com foco total no usuário final**.
+Sou **Desenvolvedor Full Stack** em constante evolução, com forte foco em **produto, usabilidade e entrega de valor real**.
 
-💡 Meu diferencial?  
-Combino **mentalidade de liderança, empatia e visão de negócio** com práticas modernas de desenvolvimento web.
+Antes da tecnologia, acumulei **+9 anos de experiência no varejo e atacado**, liderando equipes, otimizando processos e tomando decisões sob pressão.  
+Hoje, aplico essa bagagem no desenvolvimento de software — transformando problemas complexos em **soluções digitais funcionais, seguras e escaláveis**.
+
+💡 **Meu diferencial**  
+Uno **visão de negócio, mentalidade de liderança e empatia** com práticas modernas de desenvolvimento web, atuando do front ao back-end.
 
 ---
 
 ### 🚀 Tecnologias & Ferramentas
 
 **Front-end**  
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react) 
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=fff)
@@ -28,7 +30,7 @@ Combino **mentalidade de liderança, empatia e visão de negócio** com prática
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 **Back-end**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
@@ -46,40 +48,50 @@ Combino **mentalidade de liderança, empatia e visão de negócio** com prática
 
 ### 💻 Projetos em Destaque
 
-#### 💰 [MaxiBills – Controle Financeiro Full Stack](https://github.com/MaximillionDev1/MaxiBills-FrontEnd)
-> Aplicação completa para gerenciamento financeiro pessoal e empresarial, com adição de receitas, despesas e gráficos interativos.  
-> 🔗 [Front-End](https://github.com/MaximillionDev1/MaxiBills-FrontEnd) | [Back-End](https://github.com/MaximillionDev1/MaxiBills-BackEnd)  
-> 🧠 Stack: React, TypeScript, Vite, Tailwind, Node.js, Fastify, Prisma, MongoDB, Firebase  
+#### 💰 MaxiBills — Controle Financeiro Full Stack
+🔗 [Front-End](https://github.com/MaximillionDev1/MaxiBills-FrontEnd) | [Back-End](https://github.com/MaximillionDev1/MaxiBills-BackEnd)
 
-#### 🍔 [DevBurger](https://github.com/MaximillionDev1/CodeBurguer)
-> Sistema completo de pedidos e painel administrativo para uma hamburgueria digital.  
-> Stack: React.js, Node.js, MongoDB, JWT, Styled Components  
+Aplicação web para **gestão financeira pessoal e empresarial**, com autenticação segura, CRUD de transações e dashboards interativos para tomada de decisão.
 
-#### 🎬 [MvrMovies](https://github.com/MaximillionDev1/MvrMovies)
-> Catálogo de filmes e séries com consumo da API TheMovieDB e interface moderna com animações e background dinâmico.  
-> Stack: React.js, Styled Components, API externa  
+🧠 **Stack:** React, TypeScript, Vite, Tailwind CSS, Node.js, Fastify, Prisma, MongoDB, Firebase
+
+---
+
+#### 🏥 Médico Copilot — Diagnóstico Médico Assistido por IA
+Sistema **full stack** que utiliza **reconhecimento de voz** e **IA generativa** para apoio ao diagnóstico médico, com histórico de consultas e arquitetura segura.
+
+🧠 **Stack:** React 18, TypeScript, Tailwind, Node.js, Express, Claude API, OpenAI API
+
+---
+
+#### 🧠 Smart Brain E-commerce — Loja Virtual Front-End
+🔗 [Repositório](https://github.com/MaximillionDev1/SmartBrainE-commerce)
+
+Loja virtual responsiva desenvolvida com **JavaScript Vanilla**, com catálogo dinâmico, busca em tempo real e filtros por categoria.
+
+🧠 **Stack:** HTML5, CSS3, JavaScript ES6+
 
 ---
 
 ### 🌎 Interesses
 
 🌍 Projetos internacionais e colaborativos  
-💻 Ambientes remotos e híbridos  
+💻 Trabalho remoto ou híbrido  
 🤖 Aplicações com Inteligência Artificial  
-🎨 Design de interfaces e experiência do usuário  
-🧩 Projetos que unem propósito e tecnologia  
+🎨 UI, UX e design de interfaces  
+🧩 Produtos digitais com impacto real  
 
 ---
 
 ### 🤝 Vamos conectar?
 
 📫 **E-mail:** matheusdevsilv4@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/matheus-vinicius-dev](https://www.linkedin.com/in/matheus-vinicius-dev)  
-🐙 **GitHub:** [github.com/MaximillionDev1](https://github.com/MaximillionDev1)
+🔗 **LinkedIn:** https://www.linkedin.com/in/matheus-vinicius-dev  
+🐙 **GitHub:** https://github.com/MaximillionDev1
 
 ---
 
 <p align="center">
   <b>“Código é ferramenta. Transformar é propósito.”</b><br/>
-  <i>Se você busca alguém que une vivência, técnica e vontade de crescer junto — bora conversar!</i>
+  <i>Se você busca alguém que une vivência, técnica e visão de produto — bora conversar 👋</i>
 </p>
