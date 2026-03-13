@@ -67,7 +67,8 @@ CRUD de transações e dashboards interativos (gráficos de pizza e coluna).
 Sistema full stack com reconhecimento de voz e IA generativa para apoio ao
 diagnóstico médico, com histórico de consultas e arquitetura segura.
 
-[![Repo](https://img.shields.io/badge/Repo-GitHub-black)](https://github.com/MaximillionDev1
+[![Frontend](https://img.shields.io/badge/Frontend-Repo-blue)](https://github.com/MaximillionDev1/medico-copilot-frontend)
+[![Backend](https://img.shields.io/badge/Backend-Repo-green)](https://github.com/MaximillionDev1/medico-copilot-backend)
 
 
 ---
