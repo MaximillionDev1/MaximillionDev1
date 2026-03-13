@@ -57,7 +57,7 @@ CRUD de transações e dashboards interativos (gráficos de pizza e coluna).
 
 [![Frontend](https://img.shields.io/badge/Frontend-Repo-blue)](https://github.com/MaximillionDev1/MaxiBills-FrontEnd)
 [![Backend](https://img.shields.io/badge/Backend-Repo-green)](https://github.com/MaximillionDev1/MaxiBills-BackEnd)
-[![Demo](https://img.shields.io/badge/Live-Demo-orange)](https://seu-deploy.vercel.app)  ← adicione aqui
+
 
 ---
 
@@ -67,7 +67,7 @@ CRUD de transações e dashboards interativos (gráficos de pizza e coluna).
 Sistema full stack com reconhecimento de voz e IA generativa para apoio ao
 diagnóstico médico, com histórico de consultas e arquitetura segura.
 
-[![Repo](https://img.shields.io/badge/Repo-GitHub-black)](https://github.com/MaximillionDev1) ← adicione link
+
 
 ---
 
