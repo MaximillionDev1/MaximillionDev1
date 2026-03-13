@@ -1,97 +1,101 @@
-<h1 align="center">👋 Olá! Eu sou o Matheus Vinicius</h1>
-<h3 align="center">
-De líder no varejo a Desenvolvedor Full Stack — construindo produtos reais com propósito, performance e código limpo.
-</h3>
+<div align="center">
+
+# 👋 Matheus Vinicius · Full Stack Developer
+
+### De 9 anos liderando equipes no varejo à construção de produtos digitais reais.
+### React · Node.js · TypeScript · APIs REST · Clean Architecture
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matheus-vinicius-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:matheusdevsilv4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MaximillionDev1)
+
+</div>
 
 ---
 
-### 🧠 Sobre mim
+## 🧠 Sobre mim
 
-Sou **Desenvolvedor Full Stack** em constante evolução, com forte foco em **produto, usabilidade e entrega de valor real**.
+Sou **Desenvolvedor Full Stack** com foco em produto, performance e impacto real.
+Antes da tecnologia, liderei equipes por +9 anos no varejo — hoje aplico essa visão de negócio
+no desenvolvimento de soluções web modernas, seguras e escaláveis.
 
-Antes da tecnologia, acumulei **+9 anos de experiência no varejo e atacado**, liderando equipes, otimizando processos e tomando decisões sob pressão.  
-Hoje, aplico essa bagagem no desenvolvimento de software — transformando problemas complexos em **soluções digitais funcionais, seguras e escaláveis**.
-
-💡 **Meu diferencial**  
-Uno **visão de negócio, mentalidade de liderança e empatia** com práticas modernas de desenvolvimento web, atuando do front ao back-end.
-
----
-
-### 🚀 Tecnologias & Ferramentas
-
-**Front-end**  
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=fff)
-![Styled Components](https://img.shields.io/badge/-Styled--Components-db7093?style=flat&logo=styled-components)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-
-**Back-end**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![Zod](https://img.shields.io/badge/-Zod-3E69E4?style=flat&logo=zod&logoColor=fff)
-
-**Outros**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render)
+- 🚀 Stack principal: **React, TypeScript, Node.js, Fastify, Prisma**
+- 🤖 Interesse em: **IA generativa, automação e interfaces inteligentes**
+- 🌎 Aberto a: **Trabalho remoto · Projetos internacionais**
+- 📬 Contato: **matheusdevsilv4@gmail.com**
 
 ---
 
-### 💻 Projetos em Destaque
+## 🚀 Tech Stack
 
-#### 💰 MaxiBills — Controle Financeiro Full Stack
-🔗 [Front-End](https://github.com/MaximillionDev1/MaxiBills-FrontEnd) | [Back-End](https://github.com/MaximillionDev1/MaxiBills-BackEnd)
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=fff)
 
-Aplicação web para **gestão financeira pessoal e empresarial**, com autenticação segura, CRUD de transações e dashboards interativos para tomada de decisão.
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
 
-🧠 **Stack:** React, TypeScript, Vite, Tailwind CSS, Node.js, Fastify, Prisma, MongoDB, Firebase
-
----
-
-#### 🏥 Médico Copilot — Diagnóstico Médico Assistido por IA
-Sistema **full stack** que utiliza **reconhecimento de voz** e **IA generativa** para apoio ao diagnóstico médico, com histórico de consultas e arquitetura segura.
-
-🧠 **Stack:** React 18, TypeScript, Tailwind, Node.js, Express, Claude API, OpenAI API
-
----
-
-#### 🧠 Smart Brain E-commerce — Loja Virtual Front-End
-🔗 [Repositório](https://github.com/MaximillionDev1/SmartBrainE-commerce)
-
-Loja virtual responsiva desenvolvida com **JavaScript Vanilla**, com catálogo dinâmico, busca em tempo real e filtros por categoria.
-
-🧠 **Stack:** HTML5, CSS3, JavaScript ES6+
+**Cloud & Tools**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
 
 ---
 
-### 🌎 Interesses
+## 💻 Projetos em Destaque
 
-🌍 Projetos internacionais e colaborativos  
-💻 Trabalho remoto ou híbrido  
-🤖 Aplicações com Inteligência Artificial  
-🎨 UI, UX e design de interfaces  
-🧩 Produtos digitais com impacto real  
+### 💰 MaxiBills — Gestão Financeira Full Stack
+> React 19 · TypeScript · Tailwind · Node.js · Fastify · Prisma · MongoDB · Firebase
 
----
+Aplicação completa para gestão de finanças pessoais e empresariais com autenticação,
+CRUD de transações e dashboards interativos (gráficos de pizza e coluna).
 
-### 🤝 Vamos conectar?
-
-📫 **E-mail:** matheusdevsilv4@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/matheus-vinicius-dev  
-🐙 **GitHub:** https://github.com/MaximillionDev1
+[![Frontend](https://img.shields.io/badge/Frontend-Repo-blue)](https://github.com/MaximillionDev1/MaxiBills-FrontEnd)
+[![Backend](https://img.shields.io/badge/Backend-Repo-green)](https://github.com/MaximillionDev1/MaxiBills-BackEnd)
+[![Demo](https://img.shields.io/badge/Live-Demo-orange)](https://seu-deploy.vercel.app)  ← adicione aqui
 
 ---
 
-<p align="center">
-  <b>“Código é ferramenta. Transformar é propósito.”</b><br/>
-  <i>Se você busca alguém que une vivência, técnica e visão de produto — bora conversar 👋</i>
-</p>
+### 🏥 Médico Copilot — Diagnóstico Assistido por IA
+> React 18 · TypeScript · Node.js · Express · Claude API · OpenAI
+
+Sistema full stack com reconhecimento de voz e IA generativa para apoio ao
+diagnóstico médico, com histórico de consultas e arquitetura segura.
+
+[![Repo](https://img.shields.io/badge/Repo-GitHub-black)](https://github.com/MaximillionDev1) ← adicione link
+
+---
+
+### 🍔 CodeBurguer — E-commerce Full Stack
+> React · Node.js · Express · PostgreSQL · MongoDB · JWT · Stripe
+
+Plataforma de e-commerce completa com autenticação JWT, carrinho de compras,
+checkout com Stripe e painel administrativo.
+
+[![Frontend](https://img.shields.io/badge/Frontend-Repo-blue)](https://github.com/MaximillionDev1/CodeBurguer)
+[![Backend](https://img.shields.io/badge/Backend-Repo-green)](https://github.com/MaximillionDev1/CodeBurguer-api)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximillionDev1&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximillionDev1&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌎 Vamos conversar?
+
+Estou aberto a oportunidades remotas, projetos desafiadores e colaborações.
+
+> *"Código é ferramenta. Transformar é propósito."*
