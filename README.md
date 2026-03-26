@@ -21,7 +21,7 @@ no desenvolvimento de soluções web modernas, seguras e escaláveis.
 
 - 🚀 Stack principal: **React, TypeScript, Node.js, Fastify, Prisma**
 - 🤖 Interesse em: **IA generativa, automação e interfaces inteligentes**
-- 🌎 Aberto a: **Trabalho remoto · Projetos internacionais**
+- 🌎 Aberto a: **Trabalho remoto, hibrido ou presencial · Projetos internacionais**
 - 📬 Contato: **matheusdevsilv4@gmail.com**
 
 ---
