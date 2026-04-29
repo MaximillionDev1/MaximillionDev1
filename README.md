@@ -98,6 +98,7 @@ checkout com Stripe e painel administrativo.
 
 ## 🌎 Vamos conversar?
 
-Estou aberto a oportunidades remotas, projetos desafiadores e colaborações.
+Aberto a oportunidades como Desenvolvedor Front-End Júnior 
+ou Full Stack Júnior — remoto ou híbrido em São Paulo.
 
 > *"Código é ferramenta. Transformar é propósito."*
