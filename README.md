@@ -1,104 +1,249 @@
 <div align="center">
 
-# 👋 Matheus Vinicius · Full Stack Developer
+# Matheus Vinicius
 
-### De 9 anos liderando equipes no varejo à construção de produtos digitais reais.
-### React · Node.js · TypeScript · APIs REST · Clean Architecture
+### Problem Solver • Full Stack Developer
 
+### *Building software with purpose.*
+
+<br>
+
+> **"The best code isn't the most complex. It's the one that solves the problem."**
+
+<br>
+
+For nearly a decade, I solved problems by leading people and operations.
+Today, I solve them by building software.
+
+I build software with one goal:
+
+**Solve real problems through simple, reliable and scalable solutions.**
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matheus-vinicius-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:matheusdevsilv4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MaximillionDev1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdevsilv4@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 Sobre mim
+# Philosophy
 
-Sou **Desenvolvedor Full Stack** com foco em produto, performance e impacto real.
-Antes da tecnologia, liderei equipes por +9 anos no varejo — hoje aplico essa visão de negócio
-no desenvolvimento de soluções web modernas, seguras e escaláveis.
+For me, software has never been about writing the most clever code.
 
-- 🚀 Stack principal: **React, TypeScript, Node.js, Fastify, Prisma**
-- 🤖 Interesse em: **IA generativa, automação e interfaces inteligentes**
-- 🌎 Aberto a: **Trabalho remoto, hibrido ou presencial · Projetos internacionais**
-- 📬 Contato: **matheusdevsilv4@gmail.com**
+It has always been about solving problems.
 
----
+I enjoy understanding how things work, simplifying complex ideas and turning them into solutions that people can actually use.
 
-## 🚀 Tech Stack
+Whether I'm building a dashboard, an API or an AI-powered application, my goal remains the same:
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=fff)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=fff)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
-
-**Cloud & Tools**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
+> **Create software that is simple, reliable and built with purpose.**
 
 ---
 
-## 💻 Projetos em Destaque
+# Featured Work
 
-### 💰 MaxiBills — Gestão Financeira Full Stack
-> React 19 · TypeScript · Tailwind · Node.js · Fastify · Prisma · MongoDB · Firebase
+## 📅 Nexa Agenda
 
-Aplicação completa para gestão de finanças pessoais e empresariais com autenticação,
-CRUD de transações e dashboards interativos (gráficos de pizza e coluna).
+> **Service Scheduling Platform**
 
-[![Frontend](https://img.shields.io/badge/Frontend-Repo-blue)](https://github.com/MaximillionDev1/MaxiBills-FrontEnd)
-[![Backend](https://img.shields.io/badge/Backend-Repo-green)](https://github.com/MaximillionDev1/MaxiBills-BackEnd)
+### The Problem
 
+Scheduling services is often inefficient for both customers and businesses, leading to conflicts, manual work and poor user experience.
 
----
+### The Solution
 
-### 🏥 Médico Copilot — Diagnóstico Assistido por IA
-> React 18 · TypeScript · Node.js · Express · Claude API · OpenAI
+A Full Stack scheduling platform that allows customers to book services while providing administrators with complete control over appointments, availability and business operations.
 
-Sistema full stack com reconhecimento de voz e IA generativa para apoio ao
-diagnóstico médico, com histórico de consultas e arquitetura segura.
+### Highlights
 
-[![Frontend](https://img.shields.io/badge/Frontend-Repo-blue)](https://github.com/MaximillionDev1/medico-copilot-frontend)
-[![Backend](https://img.shields.io/badge/Backend-Repo-green)](https://github.com/MaximillionDev1/medico-copilot-backend)
+- Customer & Admin Workflows
+- JWT Authentication
+- Availability Management
+- REST API
+- PostgreSQL
+- Responsive Interface
+- Production Deployment
 
+🌐 **Live Application**
 
----
+https://nexa-agenda.vercel.app
 
-### 🍔 CodeBurguer — E-commerce Full Stack
-> React · Node.js · Express · PostgreSQL · MongoDB · JWT · Stripe
+📂 **Repository**
 
-Plataforma de e-commerce completa com autenticação JWT, carrinho de compras,
-checkout com Stripe e painel administrativo.
-
-[![Frontend](https://img.shields.io/badge/Frontend-Repo-blue)](https://github.com/MaximillionDev1/CodeBurguer)
-[![Backend](https://img.shields.io/badge/Backend-Repo-green)](https://github.com/MaximillionDev1/CodeBurguer-api)
+https://github.com/MaximillionDev1/nexa-agenda
 
 ---
 
-## 📊 GitHub Stats
+## 🏥 Médico Copilot
+
+> **AI-Powered Clinical Assistant**
+
+### The Problem
+
+Healthcare professionals spend valuable time documenting consultations and organizing patient information instead of focusing on patient care.
+
+### The Solution
+
+A Full Stack application that combines speech recognition with Generative AI to transform medical conversations into structured clinical documentation.
+
+### Highlights
+
+- Claude AI Integration
+- OpenAI Integration
+- Real-Time Speech Recognition
+- Structured Clinical Reports
+- Secure REST API
+- Responsive Interface
+
+📂 **Repositories**
+
+Frontend
+
+https://github.com/MaximillionDev1/medico-copilot-frontend
+
+Backend
+
+https://github.com/MaximillionDev1/medico-copilot-backend
+
+---
+
+## 💰 MaxiBills
+
+> **Financial Management Platform**
+
+### The Problem
+
+Managing finances becomes difficult when information is scattered and there is no clear visualization of income, expenses and financial trends.
+
+### The Solution
+
+A Full Stack platform that helps users organize transactions, visualize financial data and make better financial decisions.
+
+### Highlights
+
+- Interactive Dashboards
+- Authentication
+- Charts & Reports
+- REST API
+- Firebase
+- Responsive UI
+- Full Stack Architecture
+
+📂 **Repositories**
+
+Frontend
+
+https://github.com/MaximillionDev1/MaxiBills-FrontEnd
+
+Backend
+
+https://github.com/MaximillionDev1/MaxiBills-BackEnd
+
+---
+
+## 🍔 CodeBurger
+
+> **Modern E-commerce Platform**
+
+### The Problem
+
+Small businesses need reliable online stores capable of managing products, customers, orders and payments.
+
+### The Solution
+
+A complete e-commerce platform featuring authentication, shopping cart, Stripe payments and an administrative dashboard.
+
+### Highlights
+
+- JWT Authentication
+- Stripe Integration
+- Shopping Cart
+- Admin Dashboard
+- REST API
+- PostgreSQL
+- MongoDB
+
+📂 **Repositories**
+
+Frontend
+
+https://github.com/MaximillionDev1/CodeBurguer
+
+Backend
+
+https://github.com/MaximillionDev1/CodeBurguer-api
+
+---
+
+> Every project started with a real problem.
+>
+> Every solution was built with the same goal:
+>
+> **Make technology simple, reliable and useful.**
+
+---
+
+# What I Build
+
+I enjoy building software that solves real problems.
+
+Whether it's a dashboard, an AI-powered application or a complete SaaS platform, my goal is always the same:
+
+> **Design solutions that are simple to use, reliable to maintain and valuable for the people who use them.**
+
+I enjoy building:
+
+- SaaS Platforms
+- REST APIs
+- AI-Powered Applications
+- Administrative Dashboards
+- Authentication Systems
+- Financial Management Solutions
+- Scheduling Platforms
+- Responsive Web Applications
+
+---
+
+# Always Learning
+
+I believe great software is built by people who never stop learning.
+
+Every project teaches me something new.
+
+Every challenge pushes me to become a better engineer.
+
+Currently exploring:
+
+- Software Architecture
+- Testing & Code Quality
+- Cloud & Deployment
+- Product Thinking
+- AI-Powered Applications
+- Performance & Accessibility
+
+---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximillionDev1&show_icons=true&theme=tokyonight&hide_border=true)
+# Let's Connect
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximillionDev1&layout=compact&theme=tokyonight&hide_border=true)
+If you enjoy building meaningful products, solving real problems or simply talking about software, I'd be happy to connect.
+
+💼 LinkedIn
+
+https://linkedin.com/in/matheus-vinicius-dev
+
+📧 Email
+
+matheusdevsilv4@gmail.com
+
+<br>
+
+### *Building software with purpose.*
+
+**Matheus Vinicius**
 
 </div>
-
----
-
-## 🌎 Vamos conversar?
-
-Aberto a oportunidades como Desenvolvedor Front-End Júnior 
-ou Full Stack Júnior — remoto ou híbrido em São Paulo.
-
-> *"Código é ferramenta. Transformar é propósito."*
