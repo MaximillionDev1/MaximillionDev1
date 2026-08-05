@@ -73,7 +73,7 @@ https://nexa-agenda.vercel.app
 
 📂 **Repository**
 
-https://github.com/MaximillionDev1/nexa-agenda
+[https://github.com/MaximillionDev1/nexa-agenda](https://github.com/MaximillionDev1/nexa-agenda-frontend)
 
 ---
 
