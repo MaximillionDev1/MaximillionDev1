@@ -2,26 +2,14 @@
 
 # Matheus Vinicius
 
-### Problem Solver • Full Stack Developer
+### Desenvolvedor Full Stack Júnior
 
-### *Building software with purpose.*
+**React • TypeScript • Node.js • PostgreSQL • MongoDB**
 
-<br>
-
-> **"The best code isn't the most complex. It's the one that solves the problem."**
+Desenvolvendo aplicações web completas para transformar problemas em soluções funcionais.
 
 <br>
 
-For nearly a decade, I solved problems by leading people and operations.
-Today, I solve them by building software.
-
-I build software with one goal:
-
-**Solve real problems through simple, reliable and scalable solutions.**
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matheus-vinicius-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdevsilv4@gmail.com)
 
@@ -29,221 +17,210 @@ I build software with one goal:
 
 ---
 
-# Philosophy
+## Sobre mim
 
-For me, software has never been about writing the most clever code.
+Minha transição para tecnologia começou pela curiosidade de entender como as coisas funcionam, mas ganhou outro significado quando comecei a construir minhas próprias soluções.
 
-It has always been about solving problems.
+Hoje desenvolvo aplicações **Full Stack**, trabalhando principalmente com **React, TypeScript e Node.js**, além de bancos de dados relacionais e não relacionais e integrações com APIs.
 
-I enjoy understanding how things work, simplifying complex ideas and turning them into solutions that people can actually use.
+Antes da tecnologia, passei quase uma década atuando na liderança de equipes no varejo. Essa experiência trouxe habilidades que continuam presentes no desenvolvimento: **resolução de problemas, organização, comunicação, senso de prioridade e trabalho em equipe**.
 
-Whether I'm building a dashboard, an API or an AI-powered application, my goal remains the same:
-
-> **Create software that is simple, reliable and built with purpose.**
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e busco minha primeira oportunidade profissional como desenvolvedor.
 
 ---
 
-# Featured Work
+## 🛠️ Tecnologias
+
+### Front-end
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS / Sass
+- Tailwind CSS
+- Responsive Design
+
+### Back-end
+- Node.js
+- Express
+- Fastify
+- APIs REST
+- JWT
+- Zod
+
+### Bancos de dados
+- PostgreSQL
+- MongoDB
+- Prisma
+- Sequelize
+
+### Ferramentas e integrações
+- Git & GitHub
+- Vercel
+- Render
+- Figma
+- Stripe
+- OpenAI API
+- Claude API
+- Web Speech API
+
+---
+
+# 🚀 Projetos
 
 ## 📅 Nexa Agenda
 
-> **Service Scheduling Platform**
+**Plataforma Full Stack para agendamento de serviços**
 
-### The Problem
+Projeto desenvolvido para resolver problemas comuns de agendamento, permitindo que clientes realizem reservas enquanto administradores acompanham e gerenciam os horários.
 
-Scheduling services is often inefficient for both customers and businesses, leading to conflicts, manual work and poor user experience.
+### O que desenvolvi
 
-### The Solution
+- Fluxo de agendamento para clientes
+- Área administrativa
+- Autenticação com JWT
+- Controle de disponibilidade
+- Gerenciamento de status dos agendamentos
+- Cancelamento e exclusão de agendamentos
+- Filtros administrativos
+- API REST
+- Interface responsiva
+- Deploy da aplicação
 
-A Full Stack scheduling platform that allows customers to book services while providing administrators with complete control over appointments, availability and business operations.
+### Tecnologias
 
-### Highlights
+`React` `TypeScript` `Node.js` `PostgreSQL` `JWT` `REST API`
 
-- Customer & Admin Workflows
-- JWT Authentication
-- Availability Management
-- REST API
-- PostgreSQL
-- Responsive Interface
-- Production Deployment
-
-🌐 **Live Application**
-
+🌐 **Aplicação:**  
 https://nexa-agenda.vercel.app
 
-📂 **Repository**
+📂 **Frontend:**  
+https://github.com/MaximillionDev1/nexa-agenda-frontend
 
-[https://github.com/MaximillionDev1/nexa-agenda](https://github.com/MaximillionDev1/nexa-agenda-frontend)
+📂 **Backend:**  
+https://github.com/MaximillionDev1/nexa-agenda-backend
 
 ---
 
 ## 🏥 Médico Copilot
 
-> **AI-Powered Clinical Assistant**
+**Assistente clínico utilizando Inteligência Artificial Generativa**
 
-### The Problem
+Aplicação Full Stack criada para explorar como IA generativa e reconhecimento de voz podem auxiliar na organização de informações durante atendimentos.
 
-Healthcare professionals spend valuable time documenting consultations and organizing patient information instead of focusing on patient care.
+### O que desenvolvi
 
-### The Solution
+- Integração com modelos de IA
+- Fallback entre provedores
+- Reconhecimento de voz
+- Geração de informações estruturadas
+- API REST
+- Validação de dados
+- Rate limiting
+- Helmet e CORS
+- Arquitetura MVC no backend
 
-A Full Stack application that combines speech recognition with Generative AI to transform medical conversations into structured clinical documentation.
+### Tecnologias
 
-### Highlights
+`React` `TypeScript` `Node.js` `Express` `Claude API` `OpenAI API` `Web Speech API` `Zod`
 
-- Claude AI Integration
-- OpenAI Integration
-- Real-Time Speech Recognition
-- Structured Clinical Reports
-- Secure REST API
-- Responsive Interface
-
-📂 **Repositories**
-
-Frontend
-
+📂 **Frontend:**  
 https://github.com/MaximillionDev1/medico-copilot-frontend
 
-Backend
-
-https://github.com/MaximillionDev1/medico-copilot-backend
+📂 **Backend:**  
+https://github.com/MaximillionDev1/M-dico-Copilot-Backend
 
 ---
 
 ## 💰 MaxiBills
 
-> **Financial Management Platform**
+**Plataforma de gerenciamento financeiro**
 
-### The Problem
+Aplicação Full Stack desenvolvida para organizar receitas e despesas e apresentar os dados financeiros de forma visual.
 
-Managing finances becomes difficult when information is scattered and there is no clear visualization of income, expenses and financial trends.
+### O que desenvolvi
 
-### The Solution
+- Dashboard financeiro
+- Cadastro e gerenciamento de transações
+- Autenticação
+- Visualização de dados
+- Gráficos e indicadores
+- API
+- Integração com banco de dados
 
-A Full Stack platform that helps users organize transactions, visualize financial data and make better financial decisions.
+### Tecnologias
 
-### Highlights
+`React` `TypeScript` `Fastify` `Prisma` `MongoDB` `Recharts`
 
-- Interactive Dashboards
-- Authentication
-- Charts & Reports
-- REST API
-- Firebase
-- Responsive UI
-- Full Stack Architecture
-
-📂 **Repositories**
-
-Frontend
-
+📂 **Frontend:**  
 https://github.com/MaximillionDev1/MaxiBills-FrontEnd
 
-Backend
-
+📂 **Backend:**  
 https://github.com/MaximillionDev1/MaxiBills-BackEnd
 
 ---
 
 ## 🍔 CodeBurger
 
-> **Modern E-commerce Platform**
+**E-commerce Full Stack**
 
-### The Problem
+Projeto desenvolvido simulando um e-commerce completo, incluindo autenticação, gerenciamento de produtos, carrinho e pagamentos.
 
-Small businesses need reliable online stores capable of managing products, customers, orders and payments.
+### O que desenvolvi
 
-### The Solution
+- Autenticação com JWT
+- Carrinho de compras
+- Integração com Stripe
+- Dashboard administrativo
+- Gerenciamento de produtos
+- API REST
+- Persistência de dados
 
-A complete e-commerce platform featuring authentication, shopping cart, Stripe payments and an administrative dashboard.
+### Tecnologias
 
-### Highlights
+`React` `Node.js` `JWT` `Stripe` `PostgreSQL` `MongoDB`
 
-- JWT Authentication
-- Stripe Integration
-- Shopping Cart
-- Admin Dashboard
-- REST API
-- PostgreSQL
-- MongoDB
-
-📂 **Repositories**
-
-Frontend
-
+📂 **Frontend:**  
 https://github.com/MaximillionDev1/CodeBurguer
 
-Backend
-
+📂 **Backend:**  
 https://github.com/MaximillionDev1/CodeBurguer-api
 
 ---
 
-> Every project started with a real problem.
->
-> Every solution was built with the same goal:
->
-> **Make technology simple, reliable and useful.**
+# 📚 Em desenvolvimento
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+- Arquitetura de software
+- Testes automatizados
+- Qualidade de código
+- Performance
+- Acessibilidade
+- Cloud e deploy
+- Boas práticas de desenvolvimento
+- Aplicações com Inteligência Artificial
+
+Além dos projetos pessoais, continuo desenvolvendo minha base através da graduação em **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
-# What I Build
+# 🎯 Objetivo
 
-I enjoy building software that solves real problems.
+Busco minha primeira oportunidade profissional em tecnologia como **Desenvolvedor Full Stack, Front-end ou Back-end Júnior**.
 
-Whether it's a dashboard, an AI-powered application or a complete SaaS platform, my goal is always the same:
-
-> **Design solutions that are simple to use, reliable to maintain and valuable for the people who use them.**
-
-I enjoy building:
-
-- SaaS Platforms
-- REST APIs
-- AI-Powered Applications
-- Administrative Dashboards
-- Authentication Systems
-- Financial Management Solutions
-- Scheduling Platforms
-- Responsive Web Applications
-
----
-
-# Always Learning
-
-I believe great software is built by people who never stop learning.
-
-Every project teaches me something new.
-
-Every challenge pushes me to become a better engineer.
-
-Currently exploring:
-
-- Software Architecture
-- Testing & Code Quality
-- Cloud & Deployment
-- Product Thinking
-- AI-Powered Applications
-- Performance & Accessibility
+Tenho interesse em ambientes onde possa trabalhar com desenvolvimento real, aprender com profissionais mais experientes e contribuir com aquilo que já venho construindo na prática.
 
 ---
 
 <div align="center">
 
-# Let's Connect
+### Vamos conversar?
 
-If you enjoy building meaningful products, solving real problems or simply talking about software, I'd be happy to connect.
-
-💼 LinkedIn
-
+**LinkedIn:**  
 https://linkedin.com/in/matheus-vinicius-dev
 
-📧 Email
-
+**Email:**  
 matheusdevsilv4@gmail.com
-
-<br>
-
-### *Building software with purpose.*
-
-**Matheus Vinicius**
 
 </div>
